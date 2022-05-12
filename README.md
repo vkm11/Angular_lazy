@@ -1,3 +1,17 @@
+#  Lazy
+ # Create a new admin module:-
+ ng g m admin -- routing
+ 
+ # Creating login and list children:-
+ 
+ ng g c admin/login
+ 
+ ng g c admin/list
+ 
+ # Create a new user module:-
+ ng g m user --routing
+
+
 # Lazy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
