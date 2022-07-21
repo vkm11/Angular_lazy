@@ -1,4 +1,7 @@
 #  Lazy
+- when you write lazy loading then it is not required to  add app.module.ts file inside import modules
+
+
  # Create a new admin module:-
  ng g m admin -- routing
  
@@ -11,6 +14,9 @@
  # Create a new user module:-
  ng g m user --routing
 
+ ng g c user/login
+ 
+ ng g c user/list
 
 # Lazy
 
